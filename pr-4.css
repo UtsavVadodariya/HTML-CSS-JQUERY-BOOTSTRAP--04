@@ -1,0 +1,225 @@
+.nav-link{
+    text-transform: uppercase;
+    font-family: "Prompt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    margin-left: 30px;
+    color: white;
+}
+.navbar-nav{
+    margin-left: 150px;
+}
+.active{
+    color: #dd4242;
+}
+.navbar{
+    background-color: #111319;
+}
+.main2{
+    border: 1px solid;
+}
+.main2 .col{
+    padding-top: 70px;
+}
+.s1{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s1 i{
+    font-size: 35px;
+}
+.s1:hover i{
+    color: #dd4242;
+}
+#col2 .row .col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s2{
+    height: 2px;
+    width: 62.19px;
+    background-color:#71717199 ;
+    margin-top: -90%;
+}
+.s3{
+    height: 12.50px;
+    width: 12.50px;
+    background-color: #dd4242;
+    border-radius: 50%;
+    margin-top: -90%;
+    margin-left: 5px;    
+    transform: scale(1.5);
+    animation: animateuser 2s linear infinite;
+}
+@keyframes animateuser{
+    50%{
+        transform:scale(2.5);
+    }
+}
+#col2 .row .col span{
+    font-size: 27px;
+    color: #717171;
+    font-family: sans-serif;
+    margin-top: -15%;
+    margin-left: -60%;
+}
+.sec2 .col h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: -8%;
+    color: white;
+}
+.sec2 .col h1 a{
+    color: #dd4242;
+}
+.s4{
+    height: 15.50px;
+    width: 15.50px;
+    background-color: #dd4242;
+    border-radius: 50%;
+    display: inline-block;
+    transform: scale(1);
+    animation: animateuser 2s linear infinite;
+}
+@keyframes animateuser{
+    50%{
+        transform:scale(1.2);
+    }
+}
+.sec3{
+    font-size: 17px;
+    color: #b5b5b5;
+}
+.img1{
+    /* height: 700px; */
+    /* width: 720px; */
+    margin-top: -70px;
+}
+#col3{
+    /* overflow: hidden; */
+    background-image: url(https://gaaga.wpengine.com/wp-content/uploads/2023/06/Gaaga-Slider-1-Image-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.main2{
+    border: none;
+}
+.main3{
+    background-color: #111319;
+    padding-top: 100px;
+}
+.c1 svg{
+    height: 107.55px;
+    width: 90px;
+}
+.c2 svg{
+    height: 107.55px;
+    width: 90px;
+}.c3 svg{
+    height: 107.55px;
+    width: 90px;
+}
+.c4 a{
+    color: white;
+    font-size: 28px;
+    margin-left: -120px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.c4 p{
+    font-size: 16px;
+    margin-left: -120px;
+    margin-top: 10px;
+    color: #929090d6;
+}
+.c5 a{
+    color: white;
+    font-size: 28px;
+    margin-left: -120px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.c5 p{
+    font-size: 16px;
+    margin-left: -120px;
+    margin-top: 10px;
+    color: #929090d6;
+}
+.c6 a{
+    color: white;
+    font-size: 28px;
+    margin-left: -120px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.c6 p{
+    font-size: 16px;
+    margin-left: -120px;
+    margin-top: 10px;
+    color: #929090d6;
+}
+.main4{
+    padding-top: 100px;
+    background-color: #111319;
+}
+.main4 .row p{
+    color: #717171;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+.main4 .row h1{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: -20px;
+}
+.co2 a{
+    font-size: 12px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #dd4242;
+    font-weight: bold;
+}
+.co2{
+    padding-top: 30px;
+}
+.co2 span{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.co2 h6{
+    font-size: 16px;
+    color: #b5b5b5;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.main5{
+    padding-top: 150px;
+    background-color: #111319;
+}
+.main6{
+    background-image: url(https://gaaga.wpengine.com/wp-content/uploads/2023/06/Gagaa-Home1-Banner-Bg-scaled.jpg);
+    height: 610px;
+    background-size: cover;
+    padding-top: 13%;
+    font-weight: bold;
+}
+.main6 .row marquee{
+    font-size: 100px;
+    color: rgba(255, 255, 255, 0.141);
+}
+#k6{
+    padding-top: 100px;
+}
